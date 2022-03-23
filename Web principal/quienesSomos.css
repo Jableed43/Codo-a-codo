@@ -1,0 +1,16 @@
+main.quienes-somos  {
+    
+    display: flex;
+    justify-content: center;
+
+}
+
+div.img-container-quienes-somos{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-container-quienes-somos img{
+    width: 80%;
+}
