@@ -19,6 +19,11 @@
     flex-direction: column;
 }
 
+.productos .page-nav{
+    display: flex;
+    justify-content: center;
+}
+
 .productos .page-content {
     display: flex;
     justify-content: center;
